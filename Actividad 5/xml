@@ -1,0 +1,19 @@
+<!DOCTYPE alumnos SYSTEM "alumnos.dtd">
+<alumnos>
+  <alumno id="a1">
+    <nif>12345678A</nif>
+    <resultado>apto</resultado>
+    <observaciones>Excelente desempeño</observaciones>
+    <ip>192.168.0.1</ip>
+  </alumno>
+  <alumno id="a2">
+    <nif>87654321B</nif>
+    <resultado>No apto</resultado>
+    <mac>00:1A:2B:3C:4D:5E</mac>
+  </alumno>
+  <alumno id="a3">
+    <nif>11223344C</nif>
+    <resultado>apto</resultado>
+    <ip>10.0.0.2</ip>
+  </alumno>
+</alumnos>

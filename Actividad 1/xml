@@ -1,0 +1,72 @@
+<biblioteca>
+  <libro id="b1">
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <editorial>Secker & Warburg</editorial>
+    <anio>1949</anio>
+    <genero>Ficción</genero>
+  </libro>
+  <libro id="b2">
+    <titulo>El señor de los anillos</titulo>
+    <autor>J.R.R. Tolkien</autor>
+    <editorial>George Allen & Unwin</editorial>
+    <anio>1954</anio>
+    <genero>Fantasía</genero>
+  </libro>
+  <libro id="b3">
+    <titulo>Orgullo y prejuicio</titulo>
+    <autor>Jane Austen</autor>
+    <editorial>T. Egerton</editorial>
+    <anio>1813</anio>
+    <genero>Romance</genero>
+  </libro>
+  <libro id="b4">
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <editorial>Sudamericana</editorial>
+    <anio>1967</anio>
+    <genero>Realismo mágico</genero>
+  </libro>
+  <libro id="b5">
+    <titulo>El gran Gatsby</titulo>
+    <autor>F. Scott Fitzgerald</autor>
+    <editorial>Charles Scribner's Sons</editorial>
+    <anio>1925</anio>
+    <genero>Ficción</genero>
+  </libro>
+  <libro id="b6">
+    <titulo>Matar a un ruiseñor</titulo>
+    <autor>Harper Lee</autor>
+    <editorial>J.B. Lippincott & Co.</editorial>
+    <anio>1960</anio>
+    <genero>Ficción</genero>
+  </libro>
+  <libro id="b7">
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <editorial>Francisco de Robles</editorial>
+    <anio>1605</anio>
+    <genero>Aventura</genero>
+  </libro>
+  <libro id="b8">
+    <titulo>Crimen y castigo</titulo>
+    <autor>Fiódor Dostoyevski</autor>
+    <editorial>The Russian Messenger</editorial>
+    <anio>1866</anio>
+    <genero>Filosofía</genero>
+  </libro>
+  <libro id="b9">
+    <titulo>El alquimista</titulo>
+    <autor>Paulo Coelho</autor>
+    <editorial>HarperCollins</editorial>
+    <anio>1988</anio>
+    <genero>Ficción</genero>
+  </libro>
+  <libro id="b10">
+    <titulo>La odisea</titulo>
+    <autor>Homero</autor>
+    <editorial>Desconocida</editorial>
+    <anio>-700</anio>
+    <genero>Épica</genero>
+  </libro>
+</biblioteca>

@@ -1,0 +1,19 @@
+<!DOCTYPE gestoría SYSTEM "gestoria.dtd">
+<gestoría>
+  <sede id="s1">
+    <codigo>A1234567</codigo>
+    <nombreEmpleado>Juan Pérez</nombreEmpleado>
+    <fechaAlta>2024-12-28</fechaAlta>
+    <direccion>Calle Falsa 123, Cádiz</direccion>
+  </sede>
+  <cliente id="c1">
+    <codigo>ABC-123</codigo>
+    <descripcion>solvente</descripcion>
+    <numeroViviendas>3</numeroViviendas>
+    <costeVivienda>100000.50</costeVivienda>
+    <costeVivienda>120000.00</costeVivienda>
+    <costeVivienda>110000.75</costeVivienda>
+    <resumenViviendas>Propiedades urbanas en Cádiz</resumenViviendas>
+    <plazoAltaHacienda>30</plazoAltaHacienda>
+  </cliente>
+</gestoría>

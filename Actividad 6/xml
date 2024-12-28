@@ -1,0 +1,29 @@
+<!DOCTYPE modulos SYSTEM "modulos.dtd">
+<modulos>
+  <modulo id="m1">
+    <nombre>Programación</nombre>
+    <contenidos>
+      <unidadDidactica>
+        <tipo>Teoría</tipo>
+        <descripcion>Introducción a la programación</descripcion>
+      </unidadDidactica>
+      <unidadDidactica>
+        <tipo>Práctica</tipo>
+        <descripcion>Resolución de problemas con bucles y funciones</descripcion>
+      </unidadDidactica>
+    </contenidos>
+  </modulo>
+  <modulo id="m2">
+    <nombre>Bases de Datos</nombre>
+    <contenidos>
+      <unidadDidactica>
+        <tipo>Teoría</tipo>
+        <descripcion>Conceptos fundamentales de bases de datos</descripcion>
+      </unidadDidactica>
+      <unidadDidactica>
+        <tipo>Práctica</tipo>
+        <descripcion>Diseño de bases de datos relacionales</descripcion>
+      </unidadDidactica>
+    </contenidos>
+  </modulo>
+</modulos>

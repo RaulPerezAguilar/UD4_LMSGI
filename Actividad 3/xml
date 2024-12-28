@@ -1,0 +1,48 @@
+<!DOCTYPE concesionario SYSTEM "concesionario.dtd">
+<concesionario>
+  <coche id="c1">
+    <codigo>C001</codigo>
+    <marca>Toyota</marca>
+    <modelo>Corolla</modelo>
+    <matricula>1234ABC</matricula>
+    <potencia>132</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+  </coche>
+  <coche id="c2">
+    <codigo>C002</codigo>
+    <marca>Ford</marca>
+    <modelo>Fiesta</modelo>
+    <matricula>5678DEF</matricula>
+    <potencia>120</potencia>
+    <plazas>5</plazas>
+    <puertas>5</puertas>
+  </coche>
+  <coche id="c3">
+    <codigo>C003</codigo>
+    <marca>BMW</marca>
+    <modelo>320i</modelo>
+    <matricula>9101GHI</matricula>
+    <potencia>184</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+  </coche>
+  <coche id="c4">
+    <codigo>C004</codigo>
+    <marca>Audi</marca>
+    <modelo>A3</modelo>
+    <matricula>3141JKL</matricula>
+    <potencia>150</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+  </coche>
+  <coche id="c5">
+    <codigo>C005</codigo>
+    <marca>Mercedes</marca>
+    <modelo>C-Class</modelo>
+    <matricula>1122MNO</matricula>
+    <potencia>204</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+  </coche>
+</concesionario>
